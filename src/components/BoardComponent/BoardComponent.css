@@ -1,0 +1,17 @@
+.board__container {
+    border: 1px solid black;
+    width: 500px;
+    height: auto;
+}
+
+.board__cell {
+    border: 1px solid black;
+}
+
+.board__cell--selected {
+    background: lightblue;
+}
+
+.board__cell--other {
+    background: lightcoral;
+}

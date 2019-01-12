@@ -1,0 +1,1 @@
+export const BOARD_CREATED = 'board.BOARD_CREATED';
