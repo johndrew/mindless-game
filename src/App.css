@@ -1,11 +1,12 @@
 .app__container {
   text-align: center;
-  width: 500px;
+  width: 1000px;
   height: auto;
   margin: 0px auto;
-  background: #fff;
 }
 
-.app__board {
-  margin-top: 20%;
+.app__content {
+  display: grid;
+  grid-template-columns: 60% auto;
+  margin-top: 10%;
 }

@@ -2,10 +2,7 @@
     border: 1px solid black;
     width: 500px;
     height: auto;
-}
-
-.board__cell {
-    border: 1px solid black;
+    background: #fff;
 }
 
 .board__cell--selected {
